@@ -1,0 +1,13 @@
+[package]
+name = "bstr_parse"
+version = "0.1.0"
+authors = ["Steven Malis <smmalis37@gmail.com>"]
+edition = "2018"
+description = "Adds the ability to parse numbers out of `&[u8]`s."
+readme = "README.md"
+repository = "https://github.com/smmalis37/bstr_parse"
+license = "MIT OR Apache-2.0"
+keywords = ["bytes", "u8", "slice", "bytestring", "parse"]
+categories = ["algorithms", "parsing"]
+
+[dependencies]
